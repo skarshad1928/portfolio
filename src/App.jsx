@@ -28,7 +28,7 @@ function App() {
       metrics: "23% improvement in customer segmentation",
       date: "Dec 2025",
       image: "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
-      link: "https://github.com/skarshad1928/Bank-Term-Deposit"  // Added GitHub link here
+      link: "https://github.com/skarshad1928/Bank-Term-Deposit"  
     },
     {
       title: "Interactive BI Dashboards",
@@ -367,8 +367,7 @@ function App() {
                 <Github className="contact-icon" />
                 <span>GitHub</span>
               </a>
-              <a href="www.linkedin.com/in/shaik-arshad-b86222356" target="_blank" rel="noopener noreferrer" className="contact-link">
-                <Linkedin className="contact-icon" />
+              <a href="https://www.linkedin.com/in/shaik-arshad-b86222356" target="_blank" rel="noopener noreferrer" className="contact-link">
                 <span>LinkedIn</span>
               </a>
             </div>
