@@ -367,7 +367,7 @@ function App() {
                 <Github className="contact-icon" />
                 <span>GitHub</span>
               </a>
-              <a href="https://linkedin.com/in/shaik-arshad" target="_blank" rel="noopener noreferrer" className="contact-link">
+              <a href="www.linkedin.com/in/shaik-arshad-b86222356" target="_blank" rel="noopener noreferrer" className="contact-link">
                 <Linkedin className="contact-icon" />
                 <span>LinkedIn</span>
               </a>
